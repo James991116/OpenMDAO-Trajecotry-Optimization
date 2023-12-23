@@ -4,3 +4,4 @@ This is a repository to store the code for trajectory optimization of quad-copte
 ![](./figures_obs_traj/trajectory3D_obs.pdf)
 
 <iframe src="/figures_obs_traj/trajectory3D_obs.pdf" width="100%" height="500" frameborder="0" />
+marp your-README.md --html --pdf --allow-local-files
