@@ -32,5 +32,5 @@ If your are interested in more details of this project, please refer to the foll
 [Report for the Project](AE588_Final_Project.pdf)
 
 **Contributors:**
-Yingqi (James) Shen: Code Development, Dynamic Model Analysis,Problem Formulation, Results Analysis, Results Discussion
+Yingqi (James) Shen: Code Development, Dynamic Model Analysis,Problem Formulation, Results Analysis, Results Discussion\
 Emma Yan: Dynamic Model Analysis & Derivation, Problem Classification
