@@ -2,5 +2,6 @@
 This is a repository to store the code for trajectory optimization of quad-copter in urban environment using openMDAO and Dymos
 
 
-[Traj3D](https://nbviewer.org/github/James991116/OpenMDAO-Trajecotry-Optimization/blob/main/figures_obs_traj/trajectory3D_obs.pdf)
+**This is the Plot of the Trajectory of the Quadcopter**
+![Alt text](figures_obs_traj/trajectory3D_obs.png)
 
