@@ -28,9 +28,9 @@ The plot of the trajectory of the quadcopter in 2D space. It is the 2D projectio
 ![Alt text](figures_obs_traj/w1w2w3w4_vs_time_obs.png)
 It can be observed that the control inputs are not very stable. This instability is primarily due to the absence of bounds on the angular acceleration of the four rotors.
 
-** If your are interested in more details of this project, please refer to the following report.**
+If your are interested in more details of this project, please refer to the following report.
 [Report for the Project](AE588_Final_Project.pdf)
 
-** Contributors:**
+**Contributors:**
 Yingqi (James) Shen: Code Development, Dynamic Model Analysis,Problem Formulation, Results Analysis, Results Discussion
 Emma Yan: Dynamic Model Analysis & Derivation, Problem Classification
