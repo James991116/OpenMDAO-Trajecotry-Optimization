@@ -5,3 +5,4 @@ This is a repository to store the code for trajectory optimization of quad-copte
 **This is the Plot of the Trajectory of the Quadcopter**
 ![Alt text](figures_obs_traj/trajectory3D_obs.png)
 
+[Report for the Project](AE588_Final_Project.pdf)
