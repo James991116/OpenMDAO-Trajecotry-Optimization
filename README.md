@@ -31,6 +31,6 @@ It can be observed that the control inputs are not very stable. This instability
 If your are interested in more details of this project, please refer to the following report.
 [Report for the Project](AE588_Final_Project.pdf)
 
-**Contributors:**
+**Contributors:**\
 Yingqi (James) Shen: Code Development, Dynamic Model Analysis,Problem Formulation, Results Analysis, Results Discussion\
 Emma Yan: Dynamic Model Analysis & Derivation, Problem Classification
